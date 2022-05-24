@@ -1,3 +1,4 @@
+# Databricks notebook source
 '''
 Reference implementation of node2vec. 
 
